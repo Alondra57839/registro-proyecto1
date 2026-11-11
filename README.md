@@ -1,7 +1,7 @@
 ## Descripción : 
 Este es mi portafolio hecho en HTML, CSS, y PyTHON
 
-## Autor = 
+## Autor
 **Alondra Martínez G**
 
 ## Instalación

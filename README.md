@@ -2,12 +2,12 @@
 Este es mi portafolio hecho en HTML, CSS, y PyTHON
 
 ## Autor = 
-++Alondra Martínez G++
+**Alondra Martínez G**
 
-##Instalación
+## Instalación
 Este proyecto no necesita de instalación solamente con abrir la carpeta y dar click en html
 
-##Contacto
+## Contacto
 Si quieres contactarme puedes escribirme a martinezgalo0959@gmail.com
 
 
